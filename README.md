@@ -2,7 +2,7 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey jakob-hvid-hougaard!
+Hey jakob-hvid-hougaard! 
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
